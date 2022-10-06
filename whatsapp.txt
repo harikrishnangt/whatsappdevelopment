@@ -11,7 +11,7 @@ send files code
 send location code
 
 send money code
-
+to change the profile picture
 send emoji code
 not visible last seen
 add status to be watched by others
